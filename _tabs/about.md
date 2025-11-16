@@ -13,12 +13,12 @@ This fall, I will be pursuing a Master of Finance at Queen’s University throug
 
 When I'm not working, I'm building this site to share thoughts, projects, and notes across tech, science, and learning.
 
-## 🛠️ Skills Snapshot
+## Skills Snapshot
 - **Languages & Tools**: Python, PowerShell, R, GraphPad Prism, SnapGene, PyMOL, Seaview
 - **Tech & Infrastructure**: Citrix Virtual Apps and Desktops, automation scripting, server monitoring
 - **Research Techniques**: RT-PCR, NGS, western blotting, ELISA, flow cytometry, immunofluorescence
 
-## 💼 Work Experiences
+## Work Experiences
 
 **IT Administrator – Simply Alpha Solutions (2023–Present)**
 - Led onboarding and training for BC PHSA’s Citrix Virtual Apps & Desktops platform
@@ -36,7 +36,7 @@ When I'm not working, I'm building this site to share thoughts, projects, and no
 - Performed western blotting, ELISA, flow cytometry, immunoprecipitation, and mouse surgeries
 - Contributed to experimental design, analysis, and presentation of findings
 
-## 🎓 Education
+## Education
 
 **Queen’s University – Master of Finance (MFIN – Beijing Program)**  
 *Beijing, China (Incoming 2025)*  
@@ -47,8 +47,6 @@ An intensive, globally focused graduate program in finance covering financial mo
 - **Extracurricular Activities**: Queen’s Formula SAE Team, Queen’s Healthcare and Business Conference, Queen's Squirrel Watching Club   
 - **Technical Skills**: Python, R, PyMOL, Seaview, GraphPad Prism, SnapGene, BLAST
 
-## 📫 Contact
+## Contact
 - 📧 Email: [kennyfang.can@gmail.com](mailto:kennyfang.can@gmail.com)
 - 🐙 GitHub: [kennyfang7](https://github.com/kennyfang7)
-
-- Test test test test test test test
