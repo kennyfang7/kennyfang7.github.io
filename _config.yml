@@ -16,7 +16,7 @@ timezone:
 
 title: Kenny Fang # the main title
 
-tagline: BSc, # it will display as the subtitle
+tagline: BSc, MFin # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,7 +29,7 @@ github:
   username: kennyfang7 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: kennyfca # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-6Z39W6PJS2
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -223,4 +223,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
