@@ -6,6 +6,7 @@ tags: [yield curve, fixed income, data science, python]
 description: "A Python framework that monitors yield curve inversions,
   credit spreads, and a logit-based recession probability signal, with a Streamlit dashboard
   and daily automated alerting."
+math: true
 ---
 
 The yield curve encodes the market's collective belief about growth, inflation, and monetary policy in a single snapshot. When it inverts, history says pay attention. This post walks through the design and implementation of YieldCurveWatch (YCW) — a Python framework that monitors the curve, tracks credit stress, and fires calibrated recession alerts automatically.
