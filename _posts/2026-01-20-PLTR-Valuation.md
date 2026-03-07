@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What I Learned Valuing Palantir for a School Finance Paper"
 date: 2026-01-20
 categories: [Finance, Investing, Valuation]
